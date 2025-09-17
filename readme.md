@@ -1,4 +1,5 @@
-#Custom yolov8 plant detect
+# My Custom YOLOv8 Crop Disease Detection
+
 
 The objective of this piece of work is to detect disease in pear leaves using deep learning techniques. Recently [ultralytics](https://github.com/ultralytics/ultralytics) has released the new YOLOv8 model which demonstrates high accuracy and speed for image detection in computer vision. 
 
