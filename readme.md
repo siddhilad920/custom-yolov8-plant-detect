@@ -1,3 +1,5 @@
+#Custom yolov8 plant detect
+
 The objective of this piece of work is to detect disease in pear leaves using deep learning techniques. Recently [ultralytics](https://github.com/ultralytics/ultralytics) has released the new YOLOv8 model which demonstrates high accuracy and speed for image detection in computer vision. 
 
 [OpenVino](https://docs.ultralytics.com/integrations/openvino/) models accelerate the inference processes without affecting the performance of the model. Therefore, we obtained the best model and converted it to the quantized OpenVino format for a speedy inference.
@@ -47,4 +49,5 @@ The table above shows that the FPS32 and quantized OpenVino model did not affect
 </center>
 
 
+Original work © 2019 Rogério Sampaio de Almeida – modifications by Siddhi.
 
